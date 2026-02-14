@@ -89,13 +89,37 @@ While the current version of **Repo-Pulse** provides a solid foundation, I have 
 * **Custom Rulebooks:** Allow teams to define their own `pulse.yaml` to set custom thresholds (e.g., "Documentation is required for 100% score, but hygiene is optional").
 * **Multi-Language Support:** Expand beyond Python to detect health markers for JavaScript (npm/yarn) and Rust (cargo) projects.
 
----
+## 🏁 Challenge Requirements Checklist
+
+To ensure **Repo-Pulse** met the gold standard of the **GitHub Copilot CLI Challenge**, the following criteria were prioritized:
+
+* **[x] Built with GitHub Copilot CLI:** Leveraged the CLI (Claude 3.5 Haiku) for architecture, logic refinement, and debugging.
+* **[x] Productivity Focused:** Solves the manual "repo cleanup" bottleneck with a 30-second automated check.
+* **[x] Quality Gates:** Implemented strict Python type-hinting, docstrings, and PEP 8 standards via AI-pair programming.
+* **[x] Zero-Friction Testing:** No external API keys or login credentials required; works out of the box for judges.
+* **[x] Auto-Remediation:** Includes a `--fix` flag to bridge the gap between "identifying a problem" and "solving it".
+
+## How to Contribute 
+
+If you want to keep the momentum going after the challenge, add this:
+
+```markdown
+## 🤝 Contributing
+I have big plans for the [Future Roadmap](#future-roadmap)! If you want to help add multi-language support or CI/CD templates:
+1. Fork the repo.
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
+4. Push to the branch (`git push origin feature/AmazingFeature`).
+5. Open a Pull Request.
+
+```
 
 ## 💡 Closing Statement 
 
 The ultimate goal for **Repo-Pulse** is to become the standard 'Pre-Flight Check' for every developer. Whether you're starting a weekend hobby project or maintaining a massive enterprise codebase, Repo-Pulse ensures your foundation is rock solid.
 
 ---
+
 
 
 
