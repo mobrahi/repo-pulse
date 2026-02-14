@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "repo-pulse"
+version = "0.1.0"
+description = "A 30-second Project Health Check CLI"
+readme = "README.md"
+authors = [{ name = "Your Name", email = "your.email@example.com" }]
+dependencies = [
+    "rich>=10.0.0",
+]
+
+[project.scripts]
+# This defines the command name and the function to run
+repo-pulse = "repo_pulse:main"
