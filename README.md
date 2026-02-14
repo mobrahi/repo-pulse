@@ -1,7 +1,6 @@
 # ⚡ Repo-Pulse
 
-<img width="1111" height="861" alt="Screenshot 2026-02-14 at 11 48 29" src="https://github.com/user-attachments/assets/4cb8c72a-7223-4e96-b7df-d877400986aa" />
-
+<img width="588" height="220" alt="Screenshot 2026-02-14 at 13 34 42" src="https://github.com/user-attachments/assets/740a2bc2-6c47-4232-a7cb-62ee92642b6b" />
 
 > **Note:** This project was built for the [GitHub Copilot CLI Challenge](https://dev.to/challenges/github-2026-01-21). It showcases how AI-pair programming with GitHub Copilot (using the Claude 4.5 Haiku model) can accelerate the creation of robust developer tools.
 
@@ -95,6 +94,7 @@ While the current version of **Repo-Pulse** provides a solid foundation, I have 
 The ultimate goal for **Repo-Pulse** is to become the standard 'Pre-Flight Check' for every developer. Whether you're starting a weekend hobby project or maintaining a massive enterprise codebase, Repo-Pulse ensures your foundation is rock solid.
 
 ---
+
 
 
 
