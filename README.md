@@ -28,8 +28,6 @@ Automatically fix missing hygiene files:
 repo-pulse --fix
 ```
 
---- 
-
 ## 📊 How it Scores
 
 Docs: Checks for presence of README files.
@@ -41,3 +39,4 @@ Size: Ensures the repo isn't bloated with unignored env folders.
 Hygiene: Checks for vital LICENSE and .gitignore files.
 
 ---
+
