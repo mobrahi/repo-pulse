@@ -1,5 +1,8 @@
 # ⚡ Repo-Pulse
 
+<img width="1111" height="861" alt="Screenshot 2026-02-14 at 11 48 29" src="https://github.com/user-attachments/assets/4cb8c72a-7223-4e96-b7df-d877400986aa" />
+
+
 > **Note:** This project was built for the [GitHub Copilot CLI Challenge](https://dev.to/challenges/github-2026-01-21). It showcases how AI-pair programming with GitHub Copilot (using the Claude 4.5 Haiku model) can accelerate the creation of robust developer tools.
 
 **Repo-Pulse** is a lightweight CLI utility designed to give you a 30-second health check on any Python repository. It analyzes documentation, commit history, project size, and hygiene metrics to give you an actionable health score.
@@ -92,6 +95,7 @@ While the current version of **Repo-Pulse** provides a solid foundation, I have 
 The ultimate goal for **Repo-Pulse** is to become the standard 'Pre-Flight Check' for every developer. Whether you're starting a weekend hobby project or maintaining a massive enterprise codebase, Repo-Pulse ensures your foundation is rock solid.
 
 ---
+
 
 
 
