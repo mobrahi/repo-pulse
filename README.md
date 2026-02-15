@@ -60,13 +60,13 @@ repo-pulse --fix
 
 ## 📊 How it Scores
 
-Docs: Checks for presence of README files.
+- Docs: Checks for presence of README files.
 
-Commits: Analyzes git history for professional patterns.
+- Commits: Analyzes git history for professional patterns.
 
-Size: Ensures the repo isn't bloated with unignored env folders.
+- Size: Ensures the repo isn't bloated with unignored env folders.
 
-Hygiene: Checks for vital LICENSE and .gitignore files.
+- Hygiene: Checks for vital LICENSE and .gitignore files.
 
 
 ## 🗺️ Future Roadmap: The Pulse Evolves
@@ -99,7 +99,7 @@ To ensure **Repo-Pulse** met the gold standard of the **GitHub Copilot CLI Chall
 * **[x] Zero-Friction Testing:** No external API keys or login credentials required; works out of the box for judges.
 * **[x] Auto-Remediation:** Includes a `--fix` flag to bridge the gap between "identifying a problem" and "solving it".
 
-## How to Contribute 
+## 🤝 How to Contribute 
 
 If you want to keep the momentum going after the challenge, add this:
 
@@ -119,6 +119,7 @@ I have big plans for the [Future Roadmap](#future-roadmap)! If you want to help 
 The ultimate goal for **Repo-Pulse** is to become the standard 'Pre-Flight Check' for every developer. Whether you're starting a weekend hobby project or maintaining a massive enterprise codebase, Repo-Pulse ensures your foundation is rock solid.
 
 ---
+
 
 
 
